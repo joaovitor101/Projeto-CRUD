@@ -1,0 +1,9 @@
+CREATE DATABASE academico
+
+CREATE TABLE alunos(
+codigo INT PRIMARY KEY AUTO_INCREMENT,
+nome VARCHAR(60),
+cidade VARCHAR(60),
+sexo VARCHAR(60));
+
+	
